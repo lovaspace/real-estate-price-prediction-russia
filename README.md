@@ -51,18 +51,17 @@
 В рамках EDA были проанализированы:
 
 - распределение объектов по типу рынка (первичный / вторичный);
-  
 - распределение цены за квадратный метр;
-<img width="1089" height="690" alt="image" src="https://github.com/user-attachments/assets/62d5de0e-eb28-4f85-8b11-7d13419b991e" />
 - **топ-10 регионов** по медианной цене за м²;
 <img width="938" height="790" alt="image" src="https://github.com/user-attachments/assets/42a0a7cc-952e-4dd7-afef-564cc7794519" />
 - **сезонность цен** (по месяцам и годам);
-<img width="1122" height="590" alt="image" src="https://github.com/user-attachments/assets/6abeeb3c-7457-4944-9481-5bff44a013a2" />
 - выбросы и аномальные значения.
 
 ### Ключевые графики:
 - распределение цены за м²;
+<img width="1089" height="690" alt="image" src="https://github.com/user-attachments/assets/62d5de0e-eb28-4f85-8b11-7d13419b991e" />
 - тепловая карта сезонности;
+<img width="1122" height="590" alt="image" src="https://github.com/user-attachments/assets/6abeeb3c-7457-4944-9481-5bff44a013a2" />
 - медианные цены по регионам;
 - корреляционная матрица признаков.
 <img width="765" height="682" alt="image" src="https://github.com/user-attachments/assets/c96a27d5-b6bb-4505-83ae-96f5d315a9ca" />
